@@ -3,3 +3,8 @@
 - 🔗 Dataset: No dataset. Uses OpenAI's GPT-3.5 or GPT-4 API for inference. <br>
 - 🧠 Task: Paste resume text -> get suggestions for improvement using LLM.<br>
 - ⚙ Tools: Streamlit, OpenAI API, Python <br>
+
+## 📂 File structure:
+resume_reviewer/<br>
+├── app.py<br>
+├── requirements.txt<br>
